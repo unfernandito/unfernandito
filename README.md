@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my profile, I'm Luis F. Betancourt U. 👋
 
 <!--
 **unfernandito/unfernandito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on @ank.app as a Chapter Lead in mobile area with react-native
+- 🌱 I’m currently learning Swift and iOS native development
+- 👯 I’m looking to collaborate on open source libraries of react native
+- 🤔 I’m looking for help with any kind of interesting jobs in react native
+- 💬 Ask me about anything
+- 📫 How to reach me: lfbu.112@gmail.com
